@@ -1,5 +1,3 @@
->Selected solution of the textbook (undergraduate school in KHU)
-  
 ### Applied_Linear_Algebra_BS_KHU
   
 - Selected solution of the textbook (undergraduate school in KHU)

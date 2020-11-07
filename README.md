@@ -1,6 +1,6 @@
 ### Applied_Linear_Algebra_BS_KHU
   
-- Selected solution of the textbook (undergraduate school in KHU)
+- Selected solution of the textbook (undergraduate school of KHU)
 
 #### Instructor
 - Prof. Jihoon Ok
